@@ -3,7 +3,7 @@ export class TimerWrapper extends Component {
 	render() {
 		return (
 			<div>
-				Hello
+				Hello World
 			</div>
 		);
 	}
