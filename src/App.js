@@ -4,6 +4,7 @@ export class TimerWrapper extends Component {
 		return (
 			<div>
 				Hello World, it is me!Day 30 seazon...!
+				</div>
 		);
 	}
 }
